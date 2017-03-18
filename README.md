@@ -1,7 +1,7 @@
 
 C# API for [OMX](https://github.com/osPlanning/omx)
 
-#Development Environment
+# Development Environment
 It will be easiest if you have Visual Studio 2012 Express for Windows Desktop 
 installed. The solution file provided was created using this version of 
 Visual Studio. It might work with different versions but it hasn't been tested yet.
