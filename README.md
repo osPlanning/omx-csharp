@@ -14,8 +14,7 @@ Before you begin any work, it is recommended that you look through the [hdf5](ht
 familiarize yourself with how Dot Net works with HDF5.  Warning!  The HDFDotNet library and 
 documentation is not well-maintained and so you will find some special puzzles when working with it.
 
-The CSharpOMX.dll code references the HDF5DotNet dlls, and you may need reference the 
-HDF5DotNet dlls if you wish to access omx files. 
+The CSharpOMX.dll code references the HDF5DotNet dlls, which, for 64bit Windows .Net Framework Version 4, are in the hdf5dotnet folder.
 
 # Example Test Code
 This [test code](https://github.com/osPlanning/omx-csharp/tree/master/test/TestOMX/TestOMX) uses 
